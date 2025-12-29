@@ -23,6 +23,7 @@ import Footer from "./components/Footer";
 // When handling submit, disable all the inputs too
 // Add search button at the top
 // Make it responsive
+// Add AI to search the things for you & describe it for you
 
 const App = () => {
   const { theme } = useTheme();

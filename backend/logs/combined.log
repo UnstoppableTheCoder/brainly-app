@@ -29685,3 +29685,53 @@
 2025-12-29 15:08:11 info: CORS: Allowed origin: http://localhost:5173
 2025-12-29 15:08:11 info: CORS: Allowed origin: http://localhost:5173
 2025-12-29 15:24:26 info: Received exit signal. Closing server gracefully...
+2025-12-30 00:01:49 info: ✅ MongoDB connected: mycluster-shard-00-02.l5xj8.mongodb.net
+2025-12-30 00:01:49 info: 📦 Database: brainly-dev-db/brainly-db
+2025-12-30 00:01:49 info: 🚀 Server started and listening at http://localhost:3000
+2025-12-30 00:01:50 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:01:50 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:02:20 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:02:20 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:02:43 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:02:43 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:04:39 info: Received exit signal. Closing server gracefully...
+2025-12-30 00:04:47 info: ✅ MongoDB connected: localhost
+2025-12-30 00:04:47 info: 📦 Database: brainly-db/brainly-db
+2025-12-30 00:04:47 info: 🚀 Server started and listening at http://localhost:3000
+2025-12-30 00:04:55 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:04:55 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:05:08 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:06:00 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:06:00 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:06:08 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:06:47 info: Received exit signal. Closing server gracefully...
+2025-12-30 00:06:56 info: ✅ MongoDB connected: localhost
+2025-12-30 00:06:56 info: 📦 Database: brainly-db
+2025-12-30 00:06:56 info: 🚀 Server started and listening at http://localhost:3000
+2025-12-30 00:07:05 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:05 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:11 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:11 info: User logged in successfully
+2025-12-30 00:07:11 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:11 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:11 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:07:11 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:19 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:19 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:37 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:37 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:39 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:53 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:53 info: Contents fetched for hash
+2025-12-30 00:08:53 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:08:53 info: Contents fetched for hash
+2025-12-30 00:09:08 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:08 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:15 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:15 info: Contents fetched for hash
+2025-12-30 00:09:15 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:15 info: Contents fetched for hash
+2025-12-30 00:09:21 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:26 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:09:26 info: CORS: Allowed origin: http://localhost:5173
+2025-12-30 00:13:48 info: Received exit signal. Closing server gracefully...

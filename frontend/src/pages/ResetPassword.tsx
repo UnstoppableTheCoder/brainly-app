@@ -1,7 +1,6 @@
 import { useState, type ChangeEvent, type FormEvent } from "react";
 import { Navigate, useNavigate, useParams } from "react-router";
 import useAuthContext from "../contexts/auth/useAuthContext";
-import axios from "axios";
 import toast from "react-hot-toast";
 import { BACKEND_URL } from "../constants/constants";
 
