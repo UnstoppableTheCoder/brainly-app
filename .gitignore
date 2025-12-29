@@ -1,0 +1,50 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# production
+dist/
+build/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# local env files
+.env
+.env.*
+!.env.example
+
+# cache
+.eslintcache
+*.tsbuildinfo
+.npm/
+.yarn-integrity
+
+# IDEs/editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# coverage / tests
+coverage/
+.nyc_output/
+*.lcov
+
+# temp
+tmp/
+temp/
+*.swp
